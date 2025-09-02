@@ -45,6 +45,9 @@ Steps:
 5. Click **Run**.  
 
 ---
+## ▶️ Run on EDA Playground
+👉 [Run the ALU Verification here](https://www.edaplayground.com/x/GL4A)
+
 
 ## 🌟 Author
 - **Kasarla Jathin Krishna**  
